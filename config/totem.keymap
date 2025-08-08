@@ -174,7 +174,7 @@
             bindings = <
         &kp LA(NUMBER_1)      &kp LA(NUMBER_2)      &kp LA(NUMBER_3)      &kp LA(NUMBER_4)      &kp LA(NUMBER_5)        &kp LA(NUMBER_6)      &kp LA(NUMBER_7)      &kp LA(NUMBER_8)      &kp LA(NUMBER_9)      &kp F12
         &kp LS(LA(NUMBER_1))  &kp LS(LA(NUMBER_2))  &kp LS(LA(NUMBER_3))  &kp LS(LA(NUMBER_4))  &kp LA(LS(NUMBER_5))    &kp LA(LS(NUMBER_6))  &kp LS(LA(NUMBER_7))  &kp LS(LA(NUMBER_8))  &kp LS(LA(NUMBER_9))  &kp F11
-&trans  &trans                &bt BT_PRV            &trans                &trans                &trans                  &trans                &kp F1                &kp F2                &kp F3                &kp LG(LS(NUMBER_4))  &trans
+&trans  &trans                &bt BT_PRV            &studio_unlock        &trans                &trans                  &trans                &kp F1                &kp F2                &kp F3                &kp LG(LS(NUMBER_4))  &trans
                                                     &trans                &trans                &trans                  &trans                &trans                &trans
             >;
         };
